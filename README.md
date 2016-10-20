@@ -1,6 +1,6 @@
 # Ember-apollo
 
-GraphQL for ember.js
+(WORK IN PROGRESS) GraphQL for ember.js
 
 ### What is Apollo?
 Apollo is Facebook Relay for things other than React. Read about it here http://dev.apollodata.com/
